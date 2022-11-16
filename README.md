@@ -1,2 +1,2 @@
-# andisemana-github.com
+# andisemana.github.com
 hi world
